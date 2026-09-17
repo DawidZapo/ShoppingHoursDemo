@@ -2,7 +2,7 @@
 
 **Wspólny budżet domowy bez arkusza kalkulacyjnego.**
 
-ShoppingHours to aplikacja śledzenia kosztów życia: dla rodzin, par i współlokatorów.
+ShoppingHours to aplikacja do śledzenia kosztów życia: dla rodzin, par i współlokatorów.
 
 ![Panel główny](assets/img_31.png)
 
